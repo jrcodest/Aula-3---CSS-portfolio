@@ -69,16 +69,6 @@ p span{
 
 /* Main ----------------------------- */
 
-main{
-  margin: 5% 20%;
-  border: 1px solid rgba(128, 128, 128, 0.1);
-  padding: 32px;
-
-  box-shadow: 0 5px 10px rgba(128, 128, 128, 0.2);
-  background-color: white;
-  border-radius: 0 0 32px 32px;
-
-}
 
 body{
   background-color: azure;
